@@ -5,5 +5,5 @@ Version: 1.0
 Release day: 19/12/2022
 
 # How to play
-Step one: Clone this repo to your device (Windows only).//
-Step two: Open the Flappy Ball 2022.exe file, press SPACE or left-mouse-click to fly higher and higher.//
+Step one: Clone this repo to your device (Windows only).\\
+Step two: Open the Flappy Ball 2022.exe file, press SPACE or left-mouse-click to fly higher and higher.\\
